@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on 3 college projects (software & web-related)<br>🌱 Learning Kotlin and HTML5<br>💬 Ask me about gym routines and anime 😝<br>⚡ Fun fact: I’m a tech geek<br>
+🔭 Currently working on 3 college projects (software & web-related)<br>🌱 Learning Kotlin and HTML5<br>💬 Ask me about gym routines and anime 😝<br>⚡ Fun fact: I’m a tech geek<br><br>⚡ i used to brush my teeth<br>
 
 
 ## 🌐 Socials:
