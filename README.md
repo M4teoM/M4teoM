@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on 3 college projects (software & web-related)<br>🌱 Learning Kotlin and HTML5<br>💬 Ask me about gym routines and anime 😝
+🔭 Currently working on 3 freelance projects (software & POS)
 
 
 
